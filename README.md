@@ -1,2 +1,2 @@
 # dong_timedata
-Læs timedata fra Dong / Radius ved hjælp af kunde- og aftagenummer
+Læs timedata fra Dong / Ørsted ved hjælp af kunde- og aftagenummer
